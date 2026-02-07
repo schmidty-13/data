@@ -1,0 +1,22 @@
+# Eco-Pulse Backend Dependencies
+
+# Web Framework
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Statistical Modeling
+scipy>=1.12.0
+scikit-learn>=1.4.0
+
+# API Validation
+pydantic>=2.5.0
+
+# CORS Support
+python-multipart>=0.0.6
+
+# JSON handling
+orjson>=3.9.0
